@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GIS developing and tech solutions in Netcad](https://en.netcad.com/)
 
-- 🌱 I’m currently learning **Data Science and Machine Learning at Miuul Bootcamp**
+- 🌱 I’m currently learning **Data Science and Machine Learning at Miuul Bootcamp**(https://www.miuul.com/)
 
 - 💬 Ask me about **GIS and python**
 
