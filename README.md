@@ -13,10 +13,7 @@
   
 
 ### Glad to see you here!  
-I'm interested in Data Science and Python  
-  
-
-<br/>  
+I'm interested in Data Science and Python    
 
 
 ## Rapidfire  
