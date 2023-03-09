@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A person who is interested in Data Science and Python</h3>
-<p>🌱 I’m currently learning Data Science and Machine Learning at<a href="https://www.miuul.com/"><strong>Miuul Bootcamp</strong></a></p>
+<p>🌱 I’m currently learning Data Science and Machine Learning at <a href="https://www.miuul.com/"><strong>Miuul Bootcamp</strong></a></p>
 <ul>
             <li>:heavy_check_mark: <strong><i>Rule Based Classification</i></strong></li>
             <li>:heavy_check_mark: <strong><i>Customer Segmentation (RFM Analysis)</i></strong></li>
