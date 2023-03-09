@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A person who is interested in Data Science and Python</h3>
-<p>🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)</p>
+<p>🌱 I’m currently learning <a href="https://www.miuul.com/"><strong>Data Science and Machine Learning at Miuul Bootcamp</strong></a></p>
             <ul>
                   <li>
                         :heavy_check_mark: Rule Based Classification
