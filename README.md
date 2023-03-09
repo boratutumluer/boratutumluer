@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on [GIS developing and tech solutions in Netcad](https://en.netcad.com/)
 
 - 🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)
+      -  :heavy_check_mark: Rule Based Classification
+      -  :heavy_check_mark: Customer Segmentation (RFM Analysis)
+      -  :heavy_check_mark: Customer Lifetime Value (CLTV) Prediction
 
 - 💬 Ask me about **GIS and python**
 
