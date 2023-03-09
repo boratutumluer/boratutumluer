@@ -23,4 +23,4 @@
 </a>
 </div>
 
-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qi698l736d2uneekc20q9y74b&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qi698l736d2uneekc20q9y74b&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qi698l736d2uneekc20q9y74b&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
