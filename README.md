@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A person who is interested in Data Science and Python</h3>
-<p>🌱 I’m currently learning <a href="https://www.miuul.com/"><strong>Data Science and Machine Learning at Miuul Bootcamp</strong></a></p>
-            <ul>
-                  <li>
-                        :heavy_check_mark: Rule Based Classification
-                        :heavy_check_mark: Customer Segmentation (RFM Analysis)
-                        :heavy_check_mark: Customer Lifetime Value (CLTV) Prediction
-                  </li>
-            </ul></br>
+<p>🌱 I’m currently learning Data Science and Machine Learning at<a href="https://www.miuul.com/"><strong>Miuul Bootcamp</strong></a></p>
+<ul>
+            <li>:heavy_check_mark: <strong><i>Rule Based Classification</i></strong></li>
+            <li>:heavy_check_mark: <strong><i>Customer Segmentation (RFM Analysis)</i></strong></li>
+            <li>:heavy_check_mark: <strong><i>Customer Lifetime Value (CLTV) Prediction</i></strong></li>
+</ul>
 <p>💬 Ask me about **GIS and python**</p>
 <p>📫 How to reach me **boratutumluer11@gmail.com**</p>
 
