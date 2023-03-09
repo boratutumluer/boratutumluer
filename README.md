@@ -6,8 +6,8 @@
             <li>:heavy_check_mark: <strong><i>Customer Segmentation (RFM Analysis)</i></strong></li>
             <li>:heavy_check_mark: <strong><i>Customer Lifetime Value (CLTV) Prediction</i></strong></li>
 </ul>
-<p>💬 Ask me about **GIS and python**</p>
-<p>📫 How to reach me **boratutumluer11@gmail.com**</p>
+<p>💬 Ask me about <strong>GIS and Python</strong></p>
+<p>📫 How to reach me <strong>boratutumluer11@gmail.com</strong></p>
 
 
 <h3 align="left">Connect with me:</h3>
