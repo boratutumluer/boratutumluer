@@ -8,7 +8,7 @@
 </ul>
 <p>💬 Ask me about <strong>GIS and Python</strong></p>
 <p>📫 How to reach me <strong>boratutumluer11@gmail.com</strong></p>
-
+</br>
 
 ### :computer: Languages and Tools
 ## 
@@ -16,6 +16,7 @@
 
 
 ### :calling:Connect with me
+## 
 <div align="center"> 
 <a href="https://instagram.com/boratutumluer" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
