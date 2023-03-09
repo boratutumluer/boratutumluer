@@ -37,7 +37,11 @@ I'm interested in Data Science and Python
   
 
 - 🌱 I’m currently learning Data Science and Machine Learning at [Miuul Bootcamp](https://www.miuul.com/)  
-  
+    <ul>
+    <li>:heavy_check_mark: Rule Based Classification</li>
+    <li>:heavy_check_mark: Customer Segmentation (RFM Analysis)</li>
+    <li>:heavy_check_mark: Customer Lifetime Value (CLTV) Prediction</li>
+  </ul>
 
 - ❓ Ask me about anything related to GIS, Python and related technologies  
   
