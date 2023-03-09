@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A person who is interested in Data Science and Python</h3>
-<p>🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)</p></br>
+<p>🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)</p>
             <ul>
                   <li>
                         :heavy_check_mark: Rule Based Classification
@@ -8,8 +8,8 @@
                         :heavy_check_mark: Customer Lifetime Value (CLTV) Prediction
                   </li>
             </ul></br>
-<p>💬 Ask me about **GIS and python**</p></br>
-<p>📫 How to reach me **boratutumluer11@gmail.com**</p></br>
+<p>💬 Ask me about **GIS and python**</p>
+<p>📫 How to reach me **boratutumluer11@gmail.com**</p>
 
 
 <h3 align="left">Connect with me:</h3>
