@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A person who is interested in Data Science and Python</h3>
-- 🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)
+<p>🌱 I’m currently learning [**Data Science and Machine Learning at Miuul Bootcamp**](https://www.miuul.com/)</p></br>
             <ul>
                   <li>
                         :heavy_check_mark: Rule Based Classification
                         :heavy_check_mark: Customer Segmentation (RFM Analysis)
                         :heavy_check_mark: Customer Lifetime Value (CLTV) Prediction
                   </li>
-            </ul>
-- 💬 Ask me about **GIS and python**
-- 📫 How to reach me **boratutumluer11@gmail.com**
+            </ul></br>
+<p>💬 Ask me about **GIS and python**</p></br>
+<p>📫 How to reach me **boratutumluer11@gmail.com**</p></br>
 
 
 <h3 align="left">Connect with me:</h3>
