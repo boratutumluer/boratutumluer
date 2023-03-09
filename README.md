@@ -15,8 +15,6 @@
 ### Glad to see you here!  
 I'm interested in Data Science and Python    
 
-
-##   
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on GIS and technology solutions as specialist, data analysist and scientist at [Netcad Software Company](https://en.netcad.com/)  
