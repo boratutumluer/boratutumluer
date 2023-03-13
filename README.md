@@ -21,12 +21,12 @@ I'm interested in Data Science and Python
   
 
 - 🌱 I’m currently learning Data Science and Machine Learning at [Miuul Bootcamp](https://www.miuul.com/)  
-    <ul>
+    <ul type = "disc">
     <li>:heavy_check_mark: Rule Based Classification</li>
     <li>:heavy_check_mark: Customer Segmentation (RFM Analysis)</li>
     <li>:heavy_check_mark: Customer Lifetime Value (CLTV) Prediction</li>
     <li>:heavy_check_mark: Measurement Problems
-      <ul>
+      <ul type = "circle">
         <li>Rating Products</li>
         <li>Sorting Products</li>
         <li>Sorting Reviews</li>
