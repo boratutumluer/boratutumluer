@@ -25,11 +25,12 @@ I'm interested in Data Science and Python
     <li>:heavy_check_mark: Rule Based Classification</li>
     <li>:heavy_check_mark: Customer Segmentation (RFM Analysis)</li>
     <li>:heavy_check_mark: Customer Lifetime Value (CLTV) Prediction</li>
-    <ul>:heavy_check_mark: Measurement Problems</ul>
-      <li>:heavy_check_mark: Rating Products</li>
-      <li>:heavy_check_mark: Sorting Products</li>
-      <li>:heavy_check_mark: Sorting Reviews</li>
-      <li>:heavy_check_mark: AB Test</li>     
+    <ul>:heavy_check_mark: Measurement Problems
+      <li>Rating Products</li>
+      <li>Sorting Products</li>
+      <li>Sorting Reviews</li>
+      <li>AB Test</li>    
+    </ul>
   </ul>
 
 - ❓ Ask me about anything related to GIS, Python and related technologies  
