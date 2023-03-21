@@ -33,7 +33,7 @@ I'm interested in Data Science and Python
         <li>AB Test</li> 
       </ul>  
     </li>
-    <li>:heavy_check_mark: Recomendatiton Systems
+    <li>:heavy_check_mark: Recommendatiton Systems
       <ul type = "circle">
         <li>Association Rule Learning</li>
         <li>Content Based Filtering</li>
