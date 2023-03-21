@@ -33,6 +33,19 @@ I'm interested in Data Science and Python
         <li>AB Test</li> 
       </ul>  
     </li>
+    <li>:heavy_check_mark: Recomendatiton Systems
+      <ul type = "circle">
+        <li>Association Rule Learning</li>
+        <li>Content Based Filtering</li>
+        <li>Collaborative Filtering
+            <ul type = "circle">
+                 <li>User-Based</li>
+                 <li>Item-Based</li>
+                 <li>Model-Based (Matrix Factorization)</li>
+            </ul>
+        </li>
+      </ul>  
+    </li>
   </ul>
 
 - ❓ Ask me about anything related to GIS, Python and related technologies  
