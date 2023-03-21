@@ -38,7 +38,7 @@ I'm interested in Data Science and Python
         <li>Association Rule Learning</li>
         <li>Content Based Filtering</li>
         <li>Collaborative Filtering
-            <ul type = "circle">
+            <ul type = "square">
                  <li>User-Based</li>
                  <li>Item-Based</li>
                  <li>Model-Based (Matrix Factorization)</li>
