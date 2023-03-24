@@ -56,7 +56,8 @@ I'm interested in Data Science and Python
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qi698l736d2uneekc20q9y74b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div> 
 
 
 </td></tr></table>  
@@ -76,11 +77,7 @@ I'm interested in Data Science and Python
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qi698l736d2uneekc20q9y74b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=boratutumluer&&style=flat-square" align="center" />
