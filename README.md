@@ -46,6 +46,7 @@ I'm interested in Data Science and Python
         </li>
       </ul>  
     </li>
+    <li>:heavy_check_mark: Feature Engineering
   </ul>
 
 - ❓ Ask me about anything related to GIS, Python and related technologies  
